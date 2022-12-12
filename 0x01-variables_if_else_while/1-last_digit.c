@@ -4,6 +4,11 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
+/**
+*  main - Prints the alphabetic in lower and upper case
+*
+*  Return: Always (Success)
+*/
 
 int main(void)
 {
