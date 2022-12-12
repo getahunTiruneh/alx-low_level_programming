@@ -1,8 +1,9 @@
 #include<stdio.h>
+
 /**
-*  main - entry point
+*  main - Prints the alphabetic in lower and upper case
 *
-*  return value
+*  Return: Always (Success)
 */
 int main(void)
 {
