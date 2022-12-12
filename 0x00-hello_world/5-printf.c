@@ -1,11 +1,11 @@
-
 #include<stdio.h>
 
 /**
-* main - entry point
+*  main - Prints the alphabetic in lower and upper case
 *
-* Return : always 0 (sucess)
+*  Return: Always (Success)
 */
+
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
